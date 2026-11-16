@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+}
+.simpleContainer {
+    margin: 0 auto;
+    max-width: 850px;
+}
+
+.card{
+    background-color: lightgrey;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    margin: 10px 15px;
+    padding-inline: 10px;
+    text-align: center;
+    max-width: 800px;
+}
+
+img {
+    max-width: 10rem;
+}
+
